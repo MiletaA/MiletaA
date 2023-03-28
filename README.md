@@ -1,16 +1,56 @@
-### Hi there 👋
+![githubbannercrop_AdobeExpress](https://user-images.githubusercontent.com/92308650/228198748-9b1ed5c3-868a-4100-a3ae-8be668881628.gif)
 
-<!--
-**MiletaA/MiletaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"></h1>
 
-Here are some ideas to get you started:
+<p align="center">I'm passionate about technology and always eager to learn, explore, and create. Let's make something awesome together!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=MiletaA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiletaA&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiletaA&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>🌟 About Me</h2>
+  <ul>
+    <li>🌱 I’m currently studying <strong>SAPUI5 development</strong> in Fiori Factory</li>
+    <li>💡 I’m open-minded and friendly in teamwork, always ready to collaborate</li>
+    <li>🎯 I’m a fast learner and eager to explore new technologies and master them</li>
+    <li>🎸 Fun fact: I play guitar and love to jam with friends!</li>
+  </ul>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MiletaA&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>👥 Profile Visits</h2>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiletaA.MiletaA" alt="Profile Visits" />
+</div>
+
+<br />
+
