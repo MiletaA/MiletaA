@@ -33,7 +33,6 @@
 <div align="center">
   <h2>🌟 About Me</h2>
   <ul>
-    <li>🌱 I’m Currently working on <strong> HTB CPTS</strong>.</li>
     <li>💡 I’m open-minded and friendly in teamwork, always ready to collaborate.</li>
     <li>🎯 I’m a fast learner and eager to explore new technologies and master them.</li>
     <li>🎸 Fun fact: I play guitar and love to jam with friends!</li>
